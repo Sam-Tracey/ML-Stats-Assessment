@@ -19,15 +19,22 @@ Exercise 1 in this notebook uses <code>numpy</code> and <matplotlib.pyplot</code
 Exercise 2 involves fitting "stright lines" to a provided data set and determining if this is a "good fit" or not.<br><br>
 
 3. [Practical 03 - Parameters Exercises](practicals\03-Parameters-exercises.ipynb)<br><br>
-This notebook contain two exercises where we use <code>numpy.polyfit</code> to fit polynomiala to different datasets.<br><br>
+This notebook contain two exercises where we use <code>numpy.polyfit</code> to fit polynomial lines to different datasets.<br><br>
 
 ***
 <br><br>
 [Macine Learning and Statistics Assesment](anomaly-detection.ipynb)<br><br>
 This notebook contains the assesment for the Machine Learning and Statistics module.<br>The instructions for the assesment are as follows:
 
-- On the Keras website, there is an example of <a href="https://keras.io/examples/timeseries/timeseries_anomaly_detection/">time-series anomaly detection</a>. Re-create this example in a notebook of your own, explaining the concepts<br><br>
+- On the Keras website, there is an example of <a href="https://keras.io/examples/timeseries/timeseries_anomaly_detection/">time-series anomaly detection</a>. Re-create this example in a notebook of your own, explaining the concepts.<br><br>
 - Clearly explain each keras function used, referring to the documentation.<br><br>
 - Include an introduction to your notebook, setting the context and describing what the reader can expect as they read down through the notebook.<br><br>
-- Include a conclusion section where you suggest improvements you could make to the analysis in the notebook.
+- Include a conclusion section where you suggest improvements you could make to the analysis in the notebook.<br><br>
+This Notebook contains the following sections:<br><br>
+1. Introduction: Describing the concept of "Anomaly Detection" and the approach I followed.<br>
+2. Data: Giving a quick overview of the two datasets used in this notebook.<br>
+3. Exploratory Data Analysis.
+4. When All You Have is a Hammer - Everything Looks Like a Nail. In this section we review some alternative approaches to anomaly detection that we could use.<br>
+5. Preprocessing: Where we review the normalization techniques used in the original example.<br>
+6. Window Size Explained:
 
