@@ -26,15 +26,18 @@ This notebook contain two exercises where we use <code>numpy.polyfit</code> to f
 [Macine Learning and Statistics Assesment](anomaly-detection.ipynb)<br><br>
 This notebook contains the assesment for the Machine Learning and Statistics module.<br>The instructions for the assesment are as follows:
 
-- On the Keras website, there is an example of <a href="https://keras.io/examples/timeseries/timeseries_anomaly_detection/">time-series anomaly detection</a>. Re-create this example in a notebook of your own, explaining the concepts.<br><br>
-- Clearly explain each keras function used, referring to the documentation.<br><br>
-- Include an introduction to your notebook, setting the context and describing what the reader can expect as they read down through the notebook.<br><br>
+- On the Keras website, there is an example of <a href="https://keras.io/examples/timeseries/timeseries_anomaly_detection/">time-series anomaly detection</a>. Re-create this example in a notebook of your own, explaining the concepts.<br>
+- Clearly explain each keras function used, referring to the documentation.<br>
+- Include an introduction to your notebook, setting the context and describing what the reader can expect as they read down through the notebook.<br>
 - Include a conclusion section where you suggest improvements you could make to the analysis in the notebook.<br><br>
 This Notebook contains the following sections:<br><br>
-1. Introduction: Describing the concept of "Anomaly Detection" and the approach I followed.<br>
-2. Data: Giving a quick overview of the two datasets used in this notebook.<br>
-3. Exploratory Data Analysis.
-4. When All You Have is a Hammer - Everything Looks Like a Nail. In this section we review some alternative approaches to anomaly detection that we could use.<br>
-5. Preprocessing: Where we review the normalization techniques used in the original example.<br>
-6. Window Size Explained:
+1. <b>Introduction</b>: Describing the concept of "Anomaly Detection" and the approach I followed.<br>
+2. <b>Data</b>: Giving a quick overview of the two datasets used in this notebook.<br>
+3. <b>Exploratory Data Analysis</b>.
+<b>4. When All You Have is a Hammer - Everything Looks Like a Nail</b>: In this section we review some alternative approaches to anomaly detection that we could use.<br>
+5. <b>Preprocessing</b>: Where we review the normalization techniques used in the original example.<br>
+6. <b>Window Size Explained</b>: In this section we describe the <i>"Window Size"</i> parameter and what it does.<br>
+7. <b>Reconstruction Convolutional Autoencoder Model</b>: The creation and compilation of the model. This section also gives and overvice of Stochastic Gradient Descent and the Adam Optimizer.<br>
+8. <b>Model Evaluation</b>: In this section we evaluate the model and discuss the results.<br>
+9. <b>Conclusion</b>.
 
