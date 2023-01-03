@@ -15,8 +15,8 @@ This practical centres around the uses of the <code>numpy</code> and <code>scipy
 The Second part of this notebook walks through the <code>scipy.stats.ttest_ind</code> and improves the example by providing more explanatory text and visualisations.<br><br>
 
 2. [Practical 02 - Model Exercises](practicals\02-model-exercises.ipynb)<br><br>
-Exercise 1 in this notebook uses <code>numpy</code> and <matplotlib.pyplot</code> to examine the Absolute Value function and why it is not typically used when fitting straight lines to data.<br>
-Exercise 2 involves fitting "stright lines" to a provided data set and determining if this is a "good fit" or not.<br><br>
+Exercise 1 in this notebook uses <code>numpy</code> and <code>matplotlib.pyplot</code> to examine the Absolute Value function and why it is not typically used when fitting straight lines to data.<br>
+Exercise 2 involves fitting "straight lines" to a provided data set and determining if this is a "good fit" or not.<br><br>
 
 3. [Practical 03 - Parameters Exercises](practicals\03-Parameters-exercises.ipynb)<br><br>
 This notebook contain two exercises where we use <code>numpy.polyfit</code> to fit polynomial lines to different datasets.<br><br>
@@ -33,11 +33,11 @@ This notebook contains the assesment for the Machine Learning and Statistics mod
 This Notebook contains the following sections:<br><br>
 1. <b>Introduction</b>: Describing the concept of "Anomaly Detection" and the approach I followed.<br>
 2. <b>Data</b>: Giving a quick overview of the two datasets used in this notebook.<br>
-3. <b>Exploratory Data Analysis</b>.
-<b>4. When All You Have is a Hammer - Everything Looks Like a Nail</b>: In this section we review some alternative approaches to anomaly detection that we could use.<br>
+3. <b>Exploratory Data Analysis</b>.<br>
+4. <b>When All You Have is a Hammer - Everything Looks Like a Nail</b>: In this section we review some alternative approaches to anomaly detection that we could use.<br>
 5. <b>Preprocessing</b>: Where we review the normalization techniques used in the original example.<br>
 6. <b>Window Size Explained</b>: In this section we describe the <i>"Window Size"</i> parameter and what it does.<br>
-7. <b>Reconstruction Convolutional Autoencoder Model</b>: The creation and compilation of the model. This section also gives and overvice of Stochastic Gradient Descent and the Adam Optimizer.<br>
+7. <b>Reconstruction Convolutional Autoencoder Model</b>: The creation and compilation of the model. This section also gives an overview of Stochastic Gradient Descent and the Adam Optimizer.<br>
 8. <b>Model Evaluation</b>: In this section we evaluate the model and discuss the results.<br>
 9. <b>Conclusion</b>.
 
