@@ -30,6 +30,7 @@ This notebook contains the assesment for the Machine Learning and Statistics mod
 - Clearly explain each keras function used, referring to the documentation.<br>
 - Include an introduction to your notebook, setting the context and describing what the reader can expect as they read down through the notebook.<br>
 - Include a conclusion section where you suggest improvements you could make to the analysis in the notebook.<br><br>
+
 This Notebook contains the following sections:<br><br>
 1. <b>Introduction</b>: Describing the concept of "Anomaly Detection" and the approach I followed.<br>
 2. <b>Data</b>: Giving a quick overview of the two datasets used in this notebook.<br>
