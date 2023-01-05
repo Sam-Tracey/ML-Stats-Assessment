@@ -31,7 +31,7 @@ This notebook contains the assesment for the Machine Learning and Statistics mod
 - Include an introduction to your notebook, setting the context and describing what the reader can expect as they read down through the notebook.<br>
 - Include a conclusion section where you suggest improvements you could make to the analysis in the notebook.<br><br>
 
-This Notebook contains the following sections:<br><br>
+This Notebook is comprised of the following sections:<br><br>
 1. <b>Introduction</b>: Describing the concept of "Anomaly Detection" and the approach I followed.<br>
 2. <b>Data</b>: Giving a quick overview of the two datasets used in this notebook.<br>
 3. <b>Exploratory Data Analysis</b>.<br>
@@ -41,4 +41,10 @@ This Notebook contains the following sections:<br><br>
 7. <b>Reconstruction Convolutional Autoencoder Model</b>: The creation and compilation of the model. This section also gives an overview of Stochastic Gradient Descent and the Adam Optimizer.<br>
 8. <b>Model Evaluation</b>: In this section we evaluate the model and discuss the results.<br>
 9. <b>Conclusion</b>.
+<br><br>
+Should you encounter any issues viewing the notebooks in GitHub, please use the following links:<br><br>
+
+- Practicals: https://nbviewer.org/github/Sam-Tracey/ML-Stats-Assessment/tree/main/practicals/
+
+- Assessment: https://nbviewer.org/github/Sam-Tracey/ML-Stats-Assessment/blob/main/anomaly-detection.ipynb
 
